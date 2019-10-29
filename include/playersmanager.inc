@@ -74,7 +74,7 @@ native void PM_setClientRank(int client, int newRank);
 native void PM_IncreaseClientRank(int client);
 
 /**
- * Get client's balance.
+ * Get client's rank.
  *
  * @param client
  * 
