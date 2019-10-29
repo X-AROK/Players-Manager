@@ -12,7 +12,7 @@
 
 public Plugin myinfo = 
 {
-	name = "Player Manager",
+	name = "Players Manager",
 	author = PLUGIN_AUTHOR,
 	description = "",
 	version = PLUGIN_VERSION,
